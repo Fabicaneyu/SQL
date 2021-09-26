@@ -1,12 +1,14 @@
-# SQL
-Estudo de SQL
+# Curso Completo: SQL para Análise de Dados
 
-Uso das ferramentas:
+## Bancos de Dados 
+organizados em tabelas ou não organizados 
 
-https://sqliteonline.com/
-![contributions](https://github.com/Fabicaneyu/SQL/blob/main/sqlite.PNG)
+SQL x NoSQL(são muito importantes, principalmente no cenário de BigData em que não há muito tempo para armazenar dados já transformados e estruturados.) ≠ de SGBD (sistemas gerenciadores de banco de dados = ex: oracle, mysql, google bigquery e etc)
 
+Foco em dados organizados em tabelas, vulgo SQL, 
 
-https://drawsql.app/
+**Chave Primária x Chave estrangeira**
 
-![contributions](https://github.com/Fabicaneyu/SQL/blob/main/drawsql.PNG)
+*Uma tabela pode conter somente uma chave primária.* É o identificador único da tabela. E como é único, somente pode haver um.
+
+*Uma tabela pode ter mais de uma chave estrangeira.* Ela pode ter várias chaves estrangeiras, que são chaves primárias em outras tabelas.
